@@ -8,7 +8,7 @@ import pytest
 import main
 
 SECRET = 'quyetc1-secret'
-TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MDAzOTE1NzcsIm5iZiI6MTY5OTE4MTk3NywiZW1haWwiOiJxdXlldGN2MUBlbWFpbC5jb20ifQ.7oN7mk9Z4V5mTjQjIHhUasEwH5VT0eXAzo05bxw4Cno'
+TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MDA0MTUxMzAsIm5iZiI6MTY5OTIwNTUzMCwiZW1haWwiOiJxdXlldGN2MUBlbWFpbC5jb20ifQ.EdHvAe47bxgobU-DQBn3mt-JNbxJgvx6eEAUR1NPSEk'
 EMAIL = 'quyetcv1@email.com'
 PASSWORD = 'mypwd'
 
