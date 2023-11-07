@@ -9,7 +9,7 @@ import main
 
 SECRET = 'quyetc1-secret'
 TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MDA0MTUxMzAsIm5iZiI6MTY5OTIwNTUzMCwiZW1haWwiOiJxdXlldGN2MUBlbWFpbC5jb20ifQ.EdHvAe47bxgobU-DQBn3mt-JNbxJgvx6eEAUR1NPSEk'
-EMAIL = 'quyetcv1@email.com'
+EMAIL = 'quyetcv1@fpt.com'
 PASSWORD = 'mypwd'
 
 @pytest.fixture
