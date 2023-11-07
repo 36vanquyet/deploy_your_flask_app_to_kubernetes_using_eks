@@ -4,7 +4,7 @@ data:
     - groups:
       - system:bootstrappers
       - system:nodes
-      rolearn: arn:aws:iam::486387019881:role/eksctl-eksctl-demo-flask-token-nod-NodeInstanceRole-bmRUOcrEnnbI
+      rolearn: arn:aws:iam::486387019881:role/eksctl-simple-jwt-api-nodegroup-ng-NodeInstanceRole-xCRPVS7v8JZu
       username: system:node:{{EC2PrivateDNSName}}
     - groups:
       - system:masters
